@@ -1,4 +1,4 @@
-# samhar-covid19-solution
+# Discription about the problem statement
 
 The objective is to make use of Artificial Intelligence (AI) & Computer vision in predicting, minimizing, and stalling its spread of the viruses.
 
